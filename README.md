@@ -16,11 +16,11 @@ CSS: For styling the app, including a responsive design and modern look.
 JavaScript: For adding interactivity, such as adding, editing, and deleting tasks, as well as saving and retrieving data from local storage.
 Font Awesome: For the edit icon, providing a sleek and professional look.
 # Usage
-1).Clone the Repository:
+1) Clone the Repository:
 git clone https://github.com/ayush7985/To-Do-List.git
-2). Navigate to the Project Directory:
+2) Navigate to the Project Directory:
  cd To-Do-List
-3). Open index.html in Your Browser:
+3) open index.html in Your Browser:
 You can simply open the index.html file in any web browser to start using the app.
 
 # How It Works
